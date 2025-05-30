@@ -20,15 +20,6 @@ A React-based frontend application for managing products, built as part of the M
 - Bootstrap 5
 - Bootstrap Icons
 
-## Class Activity Checklist
-
-- ✅ Navigation bar
-- ✅ Home page
-- ✅ Products page
-- ✅ Contact page
-- ✅ React Router navigation
-- ✅ React Bootstrap styling
-
 ## Author
 
 Yahya Al Salmi
